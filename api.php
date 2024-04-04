@@ -1,9 +1,9 @@
 <?php
 date_default_timezone_set("Asia/Manila");
-$dbhost = '184.168.97.83';
-$dbuser = 'thunder-user';
-$dbpass = 'kakaiba12345';
-$dbname = 'thunderbolt2023';
+$dbhost = '195.35.10.163';
+$dbuser = 'u844717466_thunderbolt';
+$dbpass = 'kakaibA123A';
+$dbname = 'u844717466_thunder';
 header('Content-Type: application/json');
 //database connection
 $connection = new MySQLi($dbhost, $dbuser, $dbpass, $dbname);
