@@ -1,9 +1,9 @@
 <?php
 date_default_timezone_set("Asia/Manila");
-$dbhost = '195.35.10.163';
-$dbuser = 'u844717466_thunderbolt';
-$dbpass = 'kakaibA123A';
-$dbname = 'u844717466_thunder';
+$dbhost = '89.117.9.95';
+$dbuser = 'u699707652_technouser';
+$dbpass = 'soldier062185@A';
+$dbname = 'u699707652_techno';
 header('Content-Type: application/json');
 //database connection
 $connection = new MySQLi($dbhost, $dbuser, $dbpass, $dbname);
